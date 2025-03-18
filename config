@@ -1,0 +1,4 @@
+config-file = "/home/anon/.config/ghostty/keybinds.conf"
+config-file = "/home/anon/.config/ghostty/colors.conf"
+config-file = "/home/anon/.config/ghostty/window.conf"
+config-file = "/home/anon/.config/ghostty/general.conf"
