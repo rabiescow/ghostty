@@ -1,6 +1,6 @@
 config-file = "/home/anon/.config/ghostty/unbinds.conf"
 config-file = "/home/anon/.config/ghostty/keybinds.conf"
 config-file = "/home/anon/.config/ghostty/window.conf"
-config-file = "/home/anon/.config/ghostty/general.conf"
 config-file = "/home/anon/.config/ghostty/colors.conf"
-config-file = "/home/anon/.config/ghostty/themes/oscura.conf"
+config-file = "/home/anon/.config/ghostty/general.conf"
+config-file = "/home/anon/.config/ghostty/themes/catpuccin-mocha.conf"
