@@ -1,6 +1,9 @@
-config-file = "/home/anon/.config/ghostty/unbinds.conf"
-config-file = "/home/anon/.config/ghostty/keybinds.conf"
-config-file = "/home/anon/.config/ghostty/window.conf"
-config-file = "/home/anon/.config/ghostty/general.conf"
-config-file = "/home/anon/.config/ghostty/font.conf"
-config-file = "/home/anon/.config/ghostty/themes/catppuccin-mocha.conf"
+# The order here is important as the later items in the list will overwrite
+# prior settings.
+config-file = ~/.config/ghostty/themes/main-colors.conf
+config-file = "~/.config/ghostty/unbinds.conf"
+config-file = "~/.config/ghostty/keybinds.conf"
+config-file = "~/.config/ghostty/window.conf"
+config-file = "~/.config/ghostty/general.conf"
+config-file = "~/.config/ghostty/font.conf"
+config-file = "~/.config/ghostty/themes/catppuccin-mocha.conf"
